@@ -5,11 +5,17 @@
   "scripts": {
     "serve": "vue-cli-service serve --open",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "dependencies": {
+    "clipboard": "^2.0.1",
     "hoek": "^5.0.3",
+    "prismjs": "^1.14.0",
     "vue": "^2.5.16",
+    "vue-prism": "^1.0.5",
+    "vue-prismjs": "^1.2.0",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
@@ -20,6 +26,7 @@
     "sass-loader": "^7.0.1",
     "style-loader": "^0.21.0",
     "vue-template-compiler": "^2.5.16",
+    "vuepress": "^0.10.0",
     "webpack": "^4.8.3",
     "webpack-dev-server": "^3.1.4"
   },

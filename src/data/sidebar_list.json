@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Colors",
+    "id": 1,
+    "subsection": [
+      {
+        "title": "Brand Colors",
+        "id": 1
+      },
+      {
+        "title": "Primary Color Pallette",
+        "id": 2
+      },
+      {
+        "title": "Supplementary Gradients",
+        "id": 3
+      },
+      {
+        "title": "Greyscale",
+        "id": 4
+      }
+    ]
+  },
+  {
+    "title": "Buttons",
+    "id": 2,
+    "subsection": [
+      {
+        "title": "Primary Button",
+        "id": 1
+      },
+      {
+        "title": "Secondary Button",
+        "id": 2
+      },
+      {
+        "title": "Outlined Button",
+        "id": 3
+      }
+    ]
+  },
+  {
+    "title": "Typography",
+    "id": 3,
+    "subsection": [
+      {
+        "title": "Headings",
+        "id": 1
+      },
+      {
+        "title": "Paragraph",
+        "id": 2
+      }
+    ]
+  },
+  {
+    "title": "Forms",
+    "id": 4,
+    "subsection": [
+      {
+        "title": "Input States",
+        "id": 1
+      },
+      {
+        "title": "Dropdown",
+        "id": 2
+      },
+      {
+        "title": "Toggle Switch",
+        "id": 3
+      }
+    ]
+  }
+]

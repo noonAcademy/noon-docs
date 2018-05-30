@@ -78,6 +78,7 @@ input[type="submit"] {
     background: none;
     border: 1px solid $brand-color;
     color: $brand-color;
+    text-shadow: none;
 
     &:focus,
     &:hover {
@@ -122,6 +123,7 @@ input[type="submit"] {
     display: inline-block;
     background: none;
     color: $grey-color-dark;
+    margin: 0px -1px;
     &.right {
       border-top-left-radius: 0px;
       border-bottom-left-radius: 0px;
